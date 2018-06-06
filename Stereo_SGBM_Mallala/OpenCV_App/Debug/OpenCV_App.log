@@ -1,0 +1,52 @@
+﻿  StereoFlow.cpp
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(6): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(75): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(78): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(79): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(80): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(81): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(193): warning C4244: '*=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(202): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(203): warning C4244: '=': conversion from 'double' to 'unsigned int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(289): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(320): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(321): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(338): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(339): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(344): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(345): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(350): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(351): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(356): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(357): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(386): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(387): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(406): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(407): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(427): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(428): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(448): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(449): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(478): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(479): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(492): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(493): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(509): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(581): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(584): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(611): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(628): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(629): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(630): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(675): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(736): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(742): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(753): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(755): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(932): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(941): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(944): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(950): warning C4018: '<': signed/unsigned mismatch
+d:\jinhai\imageprocessing\stereo_sgbm_mallala - copy\opencv_app\stereoflow.cpp(1053): warning C4018: '<': signed/unsigned mismatch
+  OpenCV_App.vcxproj -> D:\Jinhai\ImageProcessing\Stereo_SGBM_Mallala - Copy\Debug\OpenCV_SFLow.exe
+  OpenCV_App.vcxproj -> D:\Jinhai\ImageProcessing\Stereo_SGBM_Mallala - Copy\Debug\OpenCV_SFLow.pdb (Full PDB)
